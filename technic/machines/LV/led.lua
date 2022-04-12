@@ -1,4 +1,4 @@
--- LED 
+-- LED
 -- Intended primarily as a core component for LED lamps.
 
 local S = technic.getter
